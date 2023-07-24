@@ -1,0 +1,9 @@
+export const host ="https://covid-vaccine-booking-api.onrender.com/";
+export const loginRoute = "https://covid-vaccine-booking-api.onrender.com/api/auth/login";
+export const registerRoute = "https://covid-vaccine-booking-api.onrender.com/api/auth/register";
+export const adminLoginRoute = "https://covid-vaccine-booking-api.onrender.com/api/auth/adminLogin";
+export const addCentreRoute = "https://covid-vaccine-booking-api.onrender.com/api/auth/addCentre";
+export const getAllCentresRoute = "https://covid-vaccine-booking-api.onrender.com/api/auth/getAllCentres";
+export const removeCentreRoute = "https://covid-vaccine-booking-api.onrender.com/api/auth/removeCentre";
+export const CentresRoute = "https://covid-vaccine-booking-api.onrender.com/api/auth/Centres";
+export const dosageRoute = "https://covid-vaccine-booking-api.onrender.com/api/auth/dosage";
